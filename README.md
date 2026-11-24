@@ -3,8 +3,8 @@
 Mechatronics Engineer with experience in manufacturing and controls at General Motors, moving into data and software engineering. Currently pursuing a Master's in Applied Artificial Intelligence at Tecnológico de Monterrey.
 
 ## What I'm working on
-- Learning SQL through CS50's Introduction to Databases with SQL
 - Building an automated job-tracking ETL pipeline in Python using Playwright/Robot Framework Browser, MongoDB, and SMTP notifications to monitor and filter engineering openings across enterprise career portals (Microsoft, Oracle, more to add...)
+- Learning SQL through CS50's Introduction to Databases with SQL
 
 ## Tech
 Python · SQL · Pandas · scikit-learn · Tableau · Git
